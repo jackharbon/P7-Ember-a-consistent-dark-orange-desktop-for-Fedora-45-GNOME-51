@@ -2,7 +2,7 @@
 
 A personal, dark-only GNOME theme set built around one idea: **the whole system should look like one design**, from the boot menu to the third-party apps. It uses soft-3D surfaces, flat faces, one orange accent (`#F5732A`), smoked-glass popups and a topographic "Ember Layers" wallpaper.
 
-![Desktop](fedora-45-screenshots/08-top-calendar.png)
+![Desktop](08-top-calendar.png)
 
 ## Screenshots
 
@@ -10,9 +10,9 @@ A personal, dark-only GNOME theme set built around one idea: **the whole system 
 
 | | |
 |---|---|
-| ![GRUB boot menu](fedora-45-screenshots/01-grub.png) GRUB boot menu | ![Plymouth boot splash](fedora-45-screenshots/02-plymouth.png) Plymouth boot splash |
-| ![Login screen (GDM)](fedora-45-screenshots/03-gdm-user-list.png) Login screen (GDM) | ![Log out dialog](fedora-45-screenshots/04-log-out.png) Log out dialog |
-| ![Lock screen](fedora-45-screenshots/05-lock-screen.png) Lock screen | ![Unlock prompt](fedora-45-screenshots/06-unlock.png) Unlock prompt |
+| ![GRUB boot menu](01-grub.png) GRUB boot menu | ![Plymouth boot splash](02-plymouth.png) Plymouth boot splash |
+| ![Login screen (GDM)](03-gdm-user-list.png) Login screen (GDM) | ![Log out dialog](04-log-out.png) Log out dialog |
+| ![Lock screen](05-lock-screen.png) Lock screen | ![Unlock prompt](06-unlock.png) Unlock prompt |
 
 > These six screens cannot be captured with a screenshot tool, so they were photographed on the laptop and then re-created at full resolution (2560×1600) from the theme's own artwork, stylesheets and fonts.
 
@@ -20,19 +20,19 @@ A personal, dark-only GNOME theme set built around one idea: **the whole system 
 
 | | |
 |---|---|
-| ![Quick Settings and power menu](fedora-45-screenshots/07-quick-settings.png) Quick Settings and power menu | ![Calendar and notifications](fedora-45-screenshots/08-top-calendar.png) Calendar and notifications |
-| ![System monitor (Vitals)](fedora-45-screenshots/09-vitals.png) System monitor (Vitals) | ![Ulauncher](fedora-45-screenshots/10-ulauncher.png) Ulauncher |
-| ![Extension Manager and Blur my Shell](fedora-45-screenshots/11-extensions.png) Extension Manager and Blur my Shell | ![Files](fedora-45-screenshots/12-home-folder.png) Files |
-| ![Settings](fedora-45-screenshots/13-settings.png) Settings | ![Terminal (Ptyxis)](fedora-45-screenshots/14-terminal.png) Terminal (Ptyxis) |
-| ![Midnight Commander](fedora-45-screenshots/15-midnight-commander.png) Midnight Commander | ![GIMP splash](fedora-45-screenshots/16-gimp-splash.png) GIMP splash |
-| ![GIMP](fedora-45-screenshots/17-gimp.png) GIMP | ![Overview](fedora-45-screenshots/18-overview.png) Overview |
-| ![Applications](fedora-45-screenshots/19-applications.png) Applications | ![FileZilla](fedora-45-screenshots/20-filezilla.png) FileZilla |
-| ![VS Code](fedora-45-screenshots/21-vsc.png) VS Code | ![Tweaks](fedora-45-screenshots/22-tweaks.png) Tweaks |
-| ![Music](fedora-45-screenshots/23-music.png) Music | ![Video Player](fedora-45-screenshots/24-video.png) Video Player |
-| ![Evolution](fedora-45-screenshots/25-evolution.png) Evolution | ![Planify](fedora-45-screenshots/26-planify.png) Planify |
-| ![Files: rename dialog](fedora-45-screenshots/27-folder-rename-popup.png) Files: rename dialog | ![Software](fedora-45-screenshots/28-software.png) Software |
-| ![Calendar](fedora-45-screenshots/29-calendar.png) Calendar | ![gedit](fedora-45-screenshots/30-gedit.png) gedit |
-| ![Calculator, Weather, Clocks and Maps](fedora-45-screenshots/31-accessories.png) Calculator, Weather, Clocks and Maps |  |
+| ![Quick Settings and power menu](07-quick-settings.png) Quick Settings and power menu | ![Calendar and notifications](08-top-calendar.png) Calendar and notifications |
+| ![System monitor (Vitals)](09-vitals.png) System monitor (Vitals) | ![Ulauncher](10-ulauncher.png) Ulauncher |
+| ![Extension Manager and Blur my Shell](11-extensions.png) Extension Manager and Blur my Shell | ![Files](12-home-folder.png) Files |
+| ![Settings](13-settings.png) Settings | ![Terminal (Ptyxis)](14-terminal.png) Terminal (Ptyxis) |
+| ![Midnight Commander](15-midnight-commander.png) Midnight Commander | ![GIMP splash](16-gimp-splash.png) GIMP splash |
+| ![GIMP](17-gimp.png) GIMP | ![Overview](18-overview.png) Overview |
+| ![Applications](19-applications.png) Applications | ![FileZilla](20-filezilla.png) FileZilla |
+| ![VS Code](21-vsc.png) VS Code | ![Tweaks](22-tweaks.png) Tweaks |
+| ![Music](23-music.png) Music | ![Video Player](24-video.png) Video Player |
+| ![Evolution](25-evolution.png) Evolution | ![Planify](26-planify.png) Planify |
+| ![Files: rename dialog](27-folder-rename-popup.png) Files: rename dialog | ![Software](28-software.png) Software |
+| ![Calendar](29-calendar.png) Calendar | ![gedit](30-gedit.png) gedit |
+| ![Calculator, Weather, Clocks and Maps](31-accessories.png) Calculator, Weather, Clocks and Maps |  |
 
 ## What is themed
 
